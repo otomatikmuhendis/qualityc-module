@@ -1,0 +1,30 @@
+{
+  "name": "qualityc",
+  "version": "0.1.1",
+  "description": "Helper methods for qualityc.app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otomatikmuhendis/qualityc-module.git"
+  },
+  "keywords": [
+    "test",
+    "automation",
+    "quality",
+    "qa",
+    "software",
+    "testing",
+    "mocha",
+    "selenium",
+    "github"
+  ],
+  "author": "Olcay Bayram <otomatikmuhendis@yahoo.com> (https://olcay.dev)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otomatikmuhendis/qualityc-module/issues"
+  },
+  "homepage": "https://github.com/otomatikmuhendis/qualityc-module#readme"
+}
