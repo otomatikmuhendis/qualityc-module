@@ -1,6 +1,6 @@
 {
   "name": "qualityc",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Helper methods for qualityc.app",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/otomatikmuhendis/qualityc-module.git"
+    "url": "git+https://github.com/qualitycapp/qualityc-module.git"
   },
   "keywords": [
     "test",
@@ -21,10 +21,10 @@
     "selenium",
     "github"
   ],
-  "author": "Olcay Bayram <otomatikmuhendis@yahoo.com> (https://olcay.dev)",
+  "author": "Olcay Bayram <postbox@olcay.dev> (https://olcay.dev)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/otomatikmuhendis/qualityc-module/issues"
+    "url": "https://github.com/qualitycapp/qualityc-module/issues"
   },
-  "homepage": "https://github.com/otomatikmuhendis/qualityc-module#readme"
+  "homepage": "https://github.com/qualitycapp/qualityc-module#readme"
 }

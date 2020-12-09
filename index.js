@@ -9,10 +9,7 @@ exports.addCheckpoint = function (name, screenshot) {
 }
 
 exports.addLog = function (message) {
-    post('log',
-        JSON.stringify({
-            data: '  ' + message + ' ' 
-        }))
+    post('log', message)
 }
 
 function post(endpoint, data) {
